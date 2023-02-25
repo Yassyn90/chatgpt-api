@@ -3,7 +3,7 @@ import openai
 import os
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Define function to generate response for a single prompt
 def generate_response(prompt):
